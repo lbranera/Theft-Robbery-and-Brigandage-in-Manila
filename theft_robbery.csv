@@ -1,14 +1,14 @@
-case_title	gr_no	crime	suspect_name	suspect_number	suspect_sex	victim_name	victim_number	victim_sex	target_object	place	time	decision_data	link
-U.S. v. Gonzalez	G.R. No. 2092	attempted_robbery	"Alejandro Gonzalez,Genaro Atienza"	2	M	Sy Poco	1	M	cash	"Calle Echague, Quiapo"	night	4/15/1905	https://cdasiaonline.com/jurisprudences/49439?s_params=ZSKuu3qfRfPFR7JKxxzz
-U.S. v. Marcial	G.R. No. L-2880	robbery_with_homicide	"Mariano Marcial,Diego Pastrana"	2	M	Gregorio Llorca	1	M	"cash,watch"	sailing ship near harbor point	night	1/3/1907	https://cdasiaonline.com/jurisprudences/48764?s_params=esZKidkAGVueLKd3Y8vF
-U.S. v. De Mesa	G.R. No. L-3441	robbery	Eulogio de Mesa	1	M	Timoteo Gaton	1	M	cash	Binondo	day	3/9/1907	https://cdasiaonline.com/jurisprudences/48687?s_params=mp_Jx5ZSXcxcU1rxq6Rw
-U.S. v. Samonte	G.R. No. L-3422	robbery	Manuel Samonte	1	M	Nicolasa Sumbingco	1	F	cash	Ermita/Malate	night	8/3/1907	https://cdasiaonline.com/jurisprudences/48740?s_params=zq5S-XcA4SfkCKFzG4ss
-U.S. v. Polintan	G.R. No. L-3419	robbery	"Domingo Polintan,Juan Bautista,Pedro Pabalan"	3	M	California-Manila Lumber Company	1	—	"brushes, car tires, vehicle parts"	"Calle San Miguel, San Miguel"	night	8/7/1907	https://cdasiaonline.com/jurisprudences/48645?s_params=Lv2qASiwypcjnp-ttkzM
-U.S. v. De Jesus	G.R. No. 5003	robbery_with_homicide	Felix de Jesus	1	M	"Faustina Tumali,a baby"	2	F/M	jewelry	Pasig River	night	9/18/1909	https://cdasiaonline.com/jurisprudences/48029?s_params=xZdJB-QyFbseatPgHtNh
-U.S. v. Orozco	G.R. No. 5385	robbery_with_homicide	"Gregorio Domingo,Segundo Orozco,Rafael de la Cruz,Santos Andres,Lope Deang"	5	M	"Coa Sin,Lim Ping"	2	M	cash	"Santo Domingo Gate, Intramuros"	night	12/4/1909	https://cdasiaonline.com/jurisprudences/47897?s_params=R81S31FHGdGJ3Y6Nj5EG
-U.S. v. Siamsico	G.R. No. 4813	theft	Potensiano Siamsico	1	M	—	—	—	—	—	—	1/23/1909	https://cdasiaonline.com/jurisprudences/48004?s_params=K8pFq2-ceFT8JvtjXwvN
-U.S. v. Ayardi	G.R. No. 4621	theft	Juana Ayardi	1	F	Lorenza Bautista	1	F	cash	—	day	11/2/1908	https://cdasiaonline.com/jurisprudences/48416?s_params=tHn_p2yh7JWzfVUyz3ax
-U.S. v. Gonzalez	G.R. No. 2160	theft	Agaton Gonzales	1	M	Nicolasa Eugenio	1	—	—	—	—	7/7/1905	https://cdasiaonline.com/jurisprudences/49363?s_params=vn8HG4S7mrjX3-qeycyg
-U.S. v. Modama	G.R. No. 574	theft	Bonifacio Modama	1	M	Capt. White	1	M	cash	"Gral. Solana St., San Miguel"	day	12/17/1902	https://cdasiaonline.com/jurisprudences/50046?s_params=R3cR_ZpgYeL4SXgU5X8-
-U.S. v. Aronce	G.R. No. 4782	theft	Emiliano Aronce	1	M	Leoncia Olivares	1	F	"watch,necklace"	"Calle Santa Rosa, Quiapo"	day	12/19/1908	https://cdasiaonline.com/jurisprudences/48211?s_params=tHn_p2yh7JWzfVUyz3ax
-U.S. v. Comis	G.R. No. L-3223	theft	Milton Comis	1	M	A Chinaman	1	M	cash	—	day	1/19/1907	https://cdasiaonline.com/jurisprudences/48480?s_params=zZQUZwpVWHKs3MeXfFC6
+case_title,gr_no,crime,suspect_name,suspect_number,suspect_sex,victim_name,victim_number,victim_sex,target_object,place,time,decision_data,link
+U.S. v. Gonzalez,G.R. No. 2092,attempted_robbery,"Alejandro Gonzalez,Genaro Atienza",2,M,Sy Poco,1,M,cash,"Calle Echague, Quiapo",night,4/15/1905,https://cdasiaonline.com/jurisprudences/49439?s_params=ZSKuu3qfRfPFR7JKxxzz
+U.S. v. Marcial,G.R. No. L-2880,robbery_with_homicide,"Mariano Marcial,Diego Pastrana",2,M,Gregorio Llorca,1,M,"cash,watch",sailing ship near harbor point,night,1/3/1907,https://cdasiaonline.com/jurisprudences/48764?s_params=esZKidkAGVueLKd3Y8vF
+U.S. v. De Mesa,G.R. No. L-3441,robbery,Eulogio de Mesa,1,M,Timoteo Gaton,1,M,cash,Binondo,day,3/9/1907,https://cdasiaonline.com/jurisprudences/48687?s_params=mp_Jx5ZSXcxcU1rxq6Rw
+U.S. v. Samonte,G.R. No. L-3422,robbery,Manuel Samonte,1,M,Nicolasa Sumbingco,1,F,cash,Ermita/Malate,night,8/3/1907,https://cdasiaonline.com/jurisprudences/48740?s_params=zq5S-XcA4SfkCKFzG4ss
+U.S. v. Polintan,G.R. No. L-3419,robbery,"Domingo Polintan,Juan Bautista,Pedro Pabalan",3,M,California-Manila Lumber Company,1,—,"brushes, car tires, vehicle parts","Calle San Miguel, San Miguel",night,8/7/1907,https://cdasiaonline.com/jurisprudences/48645?s_params=Lv2qASiwypcjnp-ttkzM
+U.S. v. De Jesus,G.R. No. 5003,robbery_with_homicide,Felix de Jesus,1,M,"Faustina Tumali,a baby",2,F/M,jewelry,Pasig River,night,9/18/1909,https://cdasiaonline.com/jurisprudences/48029?s_params=xZdJB-QyFbseatPgHtNh
+U.S. v. Orozco,G.R. No. 5385,robbery_with_homicide,"Gregorio Domingo,Segundo Orozco,Rafael de la Cruz,Santos Andres,Lope Deang",5,M,"Coa Sin,Lim Ping",2,M,cash,"Santo Domingo Gate, Intramuros",night,12/4/1909,https://cdasiaonline.com/jurisprudences/47897?s_params=R81S31FHGdGJ3Y6Nj5EG
+U.S. v. Siamsico,G.R. No. 4813,theft,Potensiano Siamsico,1,M,—,—,—,—,—,—,1/23/1909,https://cdasiaonline.com/jurisprudences/48004?s_params=K8pFq2-ceFT8JvtjXwvN
+U.S. v. Ayardi,G.R. No. 4621,theft,Juana Ayardi,1,F,Lorenza Bautista,1,F,cash,—,day,11/2/1908,https://cdasiaonline.com/jurisprudences/48416?s_params=tHn_p2yh7JWzfVUyz3ax
+U.S. v. Gonzalez,G.R. No. 2160,theft,Agaton Gonzales,1,M,Nicolasa Eugenio,1,—,—,—,—,7/7/1905,https://cdasiaonline.com/jurisprudences/49363?s_params=vn8HG4S7mrjX3-qeycyg
+U.S. v. Modama,G.R. No. 574,theft,Bonifacio Modama,1,M,Capt. White,1,M,cash,"Gral. Solana St., San Miguel",day,12/17/1902,https://cdasiaonline.com/jurisprudences/50046?s_params=R3cR_ZpgYeL4SXgU5X8-
+U.S. v. Aronce,G.R. No. 4782,theft,Emiliano Aronce,1,M,Leoncia Olivares,1,F,"watch,necklace","Calle Santa Rosa, Quiapo",day,12/19/1908,https://cdasiaonline.com/jurisprudences/48211?s_params=tHn_p2yh7JWzfVUyz3ax
+U.S. v. Comis,G.R. No. L-3223,theft,Milton Comis,1,M,A Chinaman,1,M,cash,—,day,1/19/1907,https://cdasiaonline.com/jurisprudences/48480?s_params=zZQUZwpVWHKs3MeXfFC6
