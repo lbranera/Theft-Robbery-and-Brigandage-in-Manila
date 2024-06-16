@@ -1,26 +1,18 @@
-case_title,gr_no,case_date,link,lower court,places,revolutionary affiliation,Ruling,Notes
-U.S. v. Dalawan,G.R. No. 1587,4/8/1904,https://cdasiaonline.com/jurisprudences/49595?s_params=x-P4QrRtMaWkx3jRimzx,Bulacan,"Bulacan
-Pasig",,Affirmed,
-U.S. v. De Leon,G.R. No. 1447,4/12/1904,https://cdasiaonline.com/jurisprudences/49648?s_params=x-P4QrRtMaWkx3jRimzx,,"Bulacan
-Manila
-Rizal",Yes,Affirmed,
-U.S. v. Guillermo,G.R. No. 1620,4/12/1904,https://cdasiaonline.com/jurisprudences/49608?s_params=x-P4QrRtMaWkx3jRimzx,Rizal,"Rizal
-Bulacan",,Affirmed,
-U.S. v. Mariano,G.R. No. 1646,4/16/1904,https://cdasiaonline.com/jurisprudences/49584?s_params=x-P4QrRtMaWkx3jRimzx,Rizal,Pasig,,Affirmed,
-U.S. v. Navarrete,G.R. No. 1945,1/4/1905,https://cdasiaonline.com/jurisprudences/49223?s_params=x-P4QrRtMaWkx3jRimzx,Cavite,Cavite,,Affirmed,
-U.S. v. Tan-Seco,G.R. No. 1487,4/6/1905,https://cdasiaonline.com/jurisprudences/49238?s_params=x-P4QrRtMaWkx3jRimzx,Manila,Manila,No,Affirmed,
-U.S. v. Logario,G.R. No. 1714,4/14/1905,https://cdasiaonline.com/jurisprudences/49217?s_params=r1nN3asfrqSFjkyegZpC,Manila,"Rizal
-Manila",Yes,Affirmed,
-U.S. v. Santa Ana,G.R. No. 1943,4/17/1905,https://cdasiaonline.com/jurisprudences/49433?s_params=r1nN3asfrqSFjkyegZpC,,Bulacan,,Affirmed,
-U.S. v. Pagdayuman,G.R. No. 2008,11/11/1905,https://cdasiaonline.com/jurisprudences/49267?s_params=r1nN3asfrqSFjkyegZpC,Manila,Manila,Yes,Affirmed,
-U.S. v. Sakay,G.R. No. 3621,7/26/1907,https://cdasiaonline.com/jurisprudences/48606?s_params=r1nN3asfrqSFjkyegZpC,Cavite,"Cavite
-Batangas
-Laguna
-Rizal",,Affirmed,
-U.S. v. Austria,G.R. No. L-3563,7/26/1907,https://cdasiaonline.com/jurisprudences/48736?s_params=r1nN3asfrqSFjkyegZpC,,,,Affirmed,
-U.S. v. Bustamante,G.R. No. L-3409,10/3/1907,https://cdasiaonline.com/jurisprudences/48752?s_params=r1nN3asfrqSFjkyegZpC,,Tarlac,,Affirmed,
-U.S. v. Aquino,G.R. No. 4638,9/7/1908,https://cdasiaonline.com/jurisprudences/48062?s_params=r1nN3asfrqSFjkyegZpC,Manila,Manila,No,Affirmed,
-U.S. v. Carlos,G.R. No. 5476,1/15/1910,https://cdasiaonline.com/jurisprudences/47746?s_params=r1nN3asfrqSFjkyegZpC,,Pampanga,,Affirmed,
-U.S. v. Austria,G.R. No. 2371,11/11/1905,https://cdasiaonline.com/jurisprudences/49270?s_params=r1nN3asfrqSFjkyegZpC,,,,Dismissed,Wrong jurisdiction
-U.S. v. Morales,G.R. No. 2806,8/28/1906,https://cdasiaonline.com/jurisprudences/49094?s_params=r1nN3asfrqSFjkyegZpC,,,,Dismissed,Wrong jurisdiction
-U.S. v. Manique,G.R. No. 1547,4/12/1904,https://cdasiaonline.com/jurisprudences/49573?s_params=x-P4QrRtMaWkx3jRimzx,Manila,Manila,,Reversed,
+case_title,gr_no,case_date,link,lower court,places,revolutionary affiliation,Ruling
+U.S. v. De Leon,G.R. No. 1447,4/12/1904,https://cdasiaonline.com/jurisprudences/49648?s_params=x-P4QrRtMaWkx3jRimzx,,"Bulacan,Manila,Rizal",Yes,Affirmed
+U.S. v. Tan-Seco,G.R. No. 1487,4/6/1905,https://cdasiaonline.com/jurisprudences/49238?s_params=x-P4QrRtMaWkx3jRimzx,Manila,Manila,No,Affirmed
+U.S. v. Logario,G.R. No. 1714,4/14/1905,https://cdasiaonline.com/jurisprudences/49217?s_params=r1nN3asfrqSFjkyegZpC,Manila,"Rizal,Manila",Yes,Affirmed
+U.S. v. Pagdayuman,G.R. No. 2008,11/11/1905,https://cdasiaonline.com/jurisprudences/49267?s_params=r1nN3asfrqSFjkyegZpC,Manila,Manila,Yes,Affirmed
+U.S. v. Aquino,G.R. No. 4638,9/7/1908,https://cdasiaonline.com/jurisprudences/48062?s_params=r1nN3asfrqSFjkyegZpC,Manila,Manila,No,Affirmed
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
